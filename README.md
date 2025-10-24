@@ -1,4 +1,4 @@
-\# Pokemon Legends ZA Macros
+# Pokemon Legends ZA Macros
 
 
 
@@ -6,7 +6,7 @@ Macros for Pokemon Legends ZA utilizing an Arduino Leonardo \& \[NintendoSwitchC
 
 
 
-\## Requirements
+## Requirements
 
 \- Arduino Legacy IDE version 1.8.19 (\*\*DO NOT USE VERSION 2.X\*\*)
 
@@ -20,7 +20,7 @@ Macros for Pokemon Legends ZA utilizing an Arduino Leonardo \& \[NintendoSwitchC
 
 
 
-\## Installation
+## Installation
 
 
 
@@ -30,9 +30,10 @@ Macros for Pokemon Legends ZA utilizing an Arduino Leonardo \& \[NintendoSwitchC
 
 
 
-\## Features
+## Features
 
 \- BenchAFK: Performs "bench method" for Shiny Pokemon. Initiate after resting at a bench for positioning.
 
 \- might add Restaurant Le Nah for battle farming in the future who knows
+
 
