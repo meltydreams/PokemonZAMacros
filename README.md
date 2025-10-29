@@ -33,7 +33,10 @@ Macros for Pokemon Legends ZA utilizing an Arduino Leonardo \& [NintendoSwitchCo
 
 - BenchAFK: Performs "bench method" for Shiny Pokemon. Initiate after resting at a bench for positioning.
 
+- BeldumAFK: AFK Shiny hunt method in Lysandre Labs. Initiate after using the teleporter. (Also functions as a turbo-A macro).
+
 - might add Restaurant Le Nah for battle farming in the future who knows
+
 
 
 
