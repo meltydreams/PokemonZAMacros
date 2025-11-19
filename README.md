@@ -33,9 +33,10 @@ Macros for Pokemon Legends ZA utilizing an Arduino Leonardo \& [NintendoSwitchCo
 
 - BenchAFK: Performs "bench method" for Shiny Pokemon. Initiate after resting at a bench for positioning.
 
+- RestaurantLeNah: Autofarms Restaurant Le Nah to grind battles for the Shiny Charm. (Might need Canari plush to ensure sufficient money)
+
 - TurboA: Repeatedly presses the A button. Can be used to Shiny hunt Beldum in Lysandre Labs.
 
-- might add Restaurant Le Nah for battle farming in the future who knows
 
 
 
